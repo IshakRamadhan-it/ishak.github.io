@@ -21,3 +21,10 @@
 section, footer {
 	padding: 5px 0;
 }
+body{
+    font-family: Montserrat !important; 
+    background-color:  black!important;
+}
+.tablet {
+    display: inline-block;
+    margin-left: 60px;

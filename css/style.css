@@ -23,7 +23,7 @@ section, footer {
 }
 body{
     font-family: Montserrat !important; 
-    background-color:  black!important;
+    background-color:  transparent;!important;
 }
 .tablet {
     display: inline-block;
